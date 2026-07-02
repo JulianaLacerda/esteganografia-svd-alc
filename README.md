@@ -28,8 +28,8 @@ recompressão JPEG.
 
 ```
 .
-├── Metodo1_Perturbacao_Sigma.ipynb   # Notebook do Método 1 (codificação + decodificação)
-├── Metodo2_Rotacao_U.ipynb           # Notebook do Método 2 (codificação + decodificação)
+├── Metodo1_Perturbacao_dos_Valores_Singulares.ipynb   # Notebook do Método 1 (codificação + decodificação)
+├── Metodo2_Rotacao_da_Matriz_U.ipynb           # Notebook do Método 2 (codificação + decodificação)
 ├── DATA/
 │   ├── Passaro.jpg                   # Imagem de teste 1
 │   └── Paisagem.jpg                  # Imagem de teste 2
