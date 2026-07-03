@@ -39,12 +39,12 @@ recompressão JPEG.
 ## Requisitos
 
 - Python 3.10+
-- Bibliotecas: `numpy`, `matplotlib`, `scikit-image`, `pillow`
+- Bibliotecas: `numpy`, `matplotlib`
 
 Instalação:
 
 ```bash
-pip install numpy matplotlib scikit-image pillow
+pip install numpy matplotlib
 ```
 
 ## Como executar
